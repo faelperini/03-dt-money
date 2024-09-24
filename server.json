@@ -23,6 +23,14 @@
       "category": "Compras",
       "price": 800,
       "createdAt": "2024-01-30T00:00:00.000Z"
+    },
+    {
+      "description": "Pizza",
+      "price": 80,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-09-24T20:10:39.666Z",
+      "id": 4
     }
   ]
 }
